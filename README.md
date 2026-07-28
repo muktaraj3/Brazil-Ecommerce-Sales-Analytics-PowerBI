@@ -188,7 +188,7 @@ Analyze customer satisfaction through rating distribution, review sentiment, and
 
 Understand payment preferences, installment behavior, payment value distribution, and payment trends.
 
-![Payment Analytics](Images/7-Payments.png)
+![Payment Analytics](Images/7-Payment.png)
 
 ---
 
